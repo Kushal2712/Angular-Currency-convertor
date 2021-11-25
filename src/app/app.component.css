@@ -1,0 +1,12 @@
+#Box{
+    width: 370px;
+    height: 170px;
+   padding: 30px;
+   margin: auto;
+    border: 2px solid black;
+    
+}
+
+h2{
+    text-align: center;
+}
